@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gizem
 - 👀 I’m interested in Data Science, AI, ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, CRM, AB Testing, SQL
+-
 
 
 <!---
